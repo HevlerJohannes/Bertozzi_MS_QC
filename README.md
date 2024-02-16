@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/HevlerJohannes/Bertozzi_MS_QC/main/picture.png" height="200" align="right" style="height:240px">  
+# <img src="https://raw.githubusercontent.com/HevlerJohannes/Bertozzi_MS_QC/main/picture.png" height="200" align="right" style="height:240px; margin: auto;">  
 <br />
 <br />
 <br />
