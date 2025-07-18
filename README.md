@@ -50,7 +50,7 @@ By following these steps, you can run the full QC performance analysis seamlessl
 This work was developed during my postdoctoral research in the [Bertozzi Lab](https://bertozzigroup.stanford.edu/) at Stanford University. Development was supported by an [EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) and a [Life Sciences Research Foundation (LSRF)](https://lsrf.org/) postdoctoral fellowship funded by the [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/).
 
 ## Authors and Acknowledgements
-This code has been written by Johannes F. Hevler with invaluable input from Shivam Verma.
+This code has been written by Johannes F. Hevler with invaluable input from the Bertozzi mass spectrometry users.
 
 ## Contact
 If you have any questions, suggestions, or want to collaborate, feel free to reach out:
