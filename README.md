@@ -9,6 +9,15 @@
 <br />
 <br />
 
-## **The offical mass spectrometry QC tool of the [Bertozzi group](https://bertozzigroup.stanford.edu/)**
+# **The offical mass spectrometry cloud QC tool of the [Bertozzi group](https://bertozzigroup.stanford.edu/)**
+# Overview
 
-Easy to use QC analysis tool for the analysis of a K562 protein digest standard ([Details](https://www.thermofisher.com/order/catalog/product/88328#:~:text=The%20Thermo%20Scientific%20Pierce%20HeLa,analysis%20of%20complex%20proteomic%20samples.)). This tool is based on the **Alpha- infrastructure** ([AlphaPept, AlphaRaw, AlphaMap](https://github.com/MannLabs/alphapept/blob/master/README.md)), developed by the [Matthias Mann lab](https://www.biochem.mpg.de/mann).
+**Easy-to-use cloud-based analysis tool** (via Google Drive and Google Colab) for performance assessment of LC and MS systems. It analyzes QC protein digests of your choice — for example, the K562 digest ([details here](https://www.promega.com/products/mass-spectrometry/mass-spec-reference-reagents/mass-spec-compatible-yeast-and-human-protein-extracts/?catNum=V6951)).
+
+This tool leverages **MetaMorpheus**, a powerful open-source [command-line tool](https://github.com/smith-chem-wisc/MetaMorpheus/wiki/Getting-Started#test-installation-via-net-core-dll---linux-macos-windows) developed by the [Lloyd M. Smith lab](https://pubs.acs.org/doi/10.1021/acs.jproteome.7b00873).
+
+You can run the entire workflow directly in the cloud using the [Google Colab notebook in this repository](https://github.com/HevlerJohannes/Bertozzi_MS_QC/blob/main/your_notebook_name.ipynb).
+
+
+
+
