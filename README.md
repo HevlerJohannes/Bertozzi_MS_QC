@@ -10,7 +10,7 @@
 <br />
 
 # **The offical mass spectrometry cloud QC tool of the [Bertozzi group](https://bertozzigroup.stanford.edu/)**
-# Overview
+## Overview
 
 **Easy-to-use cloud-based analysis tool** (via Google Drive and Google Colab) for performance assessment of LC and MS systems. It analyzes QC protein digests of your choice — for example, the K562 digest ([details here](https://www.promega.com/products/mass-spectrometry/mass-spec-reference-reagents/mass-spec-compatible-yeast-and-human-protein-extracts/?catNum=V6951)).
 
