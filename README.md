@@ -28,7 +28,7 @@ No software installation is required — this tool is designed to run **entirely
    Upload or copy the entire repository folder to a directory in your Google Drive.
 
 2. **Open the notebook in Google Colab**  
-   Open the main analysis notebook (e.g., `your_notebook_name.ipynb`) directly from Google Drive or GitHub using [Google Colab](https://colab.research.google.com/).
+   Open the main analysis notebook (e.g., `qc_tool.ipynb`) directly from Google Drive or GitHub using [Google Colab](https://colab.research.google.com/).
 
 3. **Prepare your data files**  
    - Place a **golden standard raw file** (used as reference for QC comparison) into the folder:  
