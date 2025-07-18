@@ -16,7 +16,7 @@
 
 This tool leverages **MetaMorpheus**, a powerful open-source [command-line tool](https://github.com/smith-chem-wisc/MetaMorpheus/wiki/Getting-Started#test-installation-via-net-core-dll---linux-macos-windows) developed by the [Lloyd M. Smith lab](https://pubs.acs.org/doi/10.1021/acs.jproteome.7b00873).
 
-You can run the entire workflow directly in the cloud using the [Google Colab notebook in this repository](https://github.com/HevlerJohannes/Bertozzi_MS_QC/blob/main/your_notebook_name.ipynb).
+You can run the entire workflow directly in the cloud using the [Google Colab notebook in this repository](qc_tool.ipynb).
 
 
 
