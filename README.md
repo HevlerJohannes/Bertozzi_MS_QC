@@ -18,6 +18,42 @@ This tool leverages **MetaMorpheus**, a powerful open-source [command-line tool]
 
 You can run the entire workflow directly in the cloud using the [Google Colab notebook in this repository](qc_tool.ipynb).
 
+## Installation & Setup
 
+No software installation is required — this tool is designed to run **entirely in the cloud** via Google Colab.
+
+### Steps to get started:
+
+1. **Copy the project folder to your Google Drive**  
+   Upload or copy the entire repository folder to a directory in your Google Drive.
+
+2. **Open the notebook in Google Colab**  
+   Open the main analysis notebook (e.g., `your_notebook_name.ipynb`) directly from Google Drive or GitHub using [Google Colab](https://colab.research.google.com/).
+
+3. **Prepare your data files**  
+   - Place a **golden standard raw file** (used as reference for QC comparison) into the folder:  
+     `bin/qc_standard_raw/`  
+   - Place the **raw data file to be analyzed** into:  
+     `temp_data/raw/`
+
+4. **Set up email notifications (optional)**  
+   To enable sending email reports via Python within the notebook:  
+   - Create a **Gmail account** linked to your Google Drive account (if you don’t have one).  
+   - Configure the Gmail account to allow sending emails through Python scripts (e.g., create an **App Password** if using 2-step verification).  
+   - Add your Gmail credentials securely in the notebook to enable email sending.
+
+---
+
+By following these steps, you can run the full QC performance analysis seamlessly in the cloud without any local installations!
+
+## Funding
+This work was developed during my postdoctoral research in the [Bertozzi Lab](https://bertozzigroup.stanford.edu/) at Stanford University. Development was supported by an [EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/) and a [Life Sciences Research Foundation (LSRF)](https://lsrf.org/) postdoctoral fellowship funded by the [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/).
+
+## Authors and Acknowledgements
+This code has been written by Johannes F. Hevler with invaluable input from Shivam Verma.
+
+## Contact
+If you have any questions, suggestions, or want to collaborate, feel free to reach out:
+- Email: jfhevler@stanford.edu  
 
 
